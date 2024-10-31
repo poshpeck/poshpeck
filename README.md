@@ -3,5 +3,5 @@
 <h2>👨‍💻 Power BI Projects:</h2>
 
 - <b>Spotify Visualization</b>
-  - [Visualizing the most stremed songs on spotify 2023](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Visualizing the most stremed songs on spotify 2023](https://github.com/poshpeck/spotify/tree/main)
 
