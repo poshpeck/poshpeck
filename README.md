@@ -4,4 +4,7 @@
 
 - <b>Spotify Visualization</b>
   - [Visualizing the most streamed songs on spotify 2023](https://github.com/poshpeck/spotify/tree/main)
+ 
+- <b>Nike Product Data</b>
+  - [Nike Product Data](https://github.com/poshpeck/spotify/tree/main)
 
