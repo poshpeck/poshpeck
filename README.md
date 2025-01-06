@@ -9,5 +9,5 @@
   - [Nike Product Data](https://github.com/poshpeck/Nike-Product-Data)
  
   - <b>Christmas Sales</b>
-  - [Nike Product Data](https://github.com/poshpeck/Nike-Product-Data)
+  - [Christmas Sales](https://github.com/poshpeck/Nike-Product-Data)
 
