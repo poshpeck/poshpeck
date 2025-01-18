@@ -11,3 +11,21 @@
 - <b>Christmas Sales Insights</b>
   - [Christmas Sales](https://github.com/poshpeck/Christmas-Sales)
 
+
+
+
+
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="PaulEgboh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="PaulEgboh | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+
+
+[linkedin]: https://linkedin.com/in/paulegboh
+[Medium]: https://medium.com/@egbohpaul
+
+
+
